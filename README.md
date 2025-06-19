@@ -37,7 +37,7 @@ Welcome to my professional portfolio, where I share highlights from my academic 
 
 ## 📎 Downloads
 
-- [Resume (PDF)](link-to-uploaded-resume)
+- [Resume (PDF)](link-to-uploaded-resume)(Resume June-2025)
 - [Sample Project – Joint Commission Compliance Report](link-to-uploaded-file)
 - [Health Admin Ethics Paper – Baby K Case](link-to-uploaded-paper)
 
